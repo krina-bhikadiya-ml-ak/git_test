@@ -1,1 +1,2 @@
 logic1 is implemented
+logic2 is implemented
